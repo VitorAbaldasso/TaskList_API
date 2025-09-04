@@ -7,24 +7,32 @@
       "RelativeMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|d:\\users\\vitor.baldasso\\estudos\\myfirstapi\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|solutionrelative:services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|d:\\users\\vitor.baldasso\\estudos\\myfirstapi\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|solutionrelative:services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|d:\\users\\vitor.baldasso\\estudos\\myfirstapi\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|solutionrelative:models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|d:\\users\\vitor.baldasso\\estudos\\myfirstapi\\services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|solutionrelative:services\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|d:\\users\\vitor.baldasso\\estudos\\myfirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|d:\\users\\vitor.baldasso\\estudos\\myfirstapi\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|solutionrelative:models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|d:\\users\\vitor.baldasso\\estudos\\myfirstapi\\myfirstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|solutionrelative:myfirstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|d:\\users\\vitor.baldasso\\estudos\\myfirstapi\\myfirstapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|solutionrelative:myfirstapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|d:\\users\\vitor.baldasso\\estudos\\myfirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{377AF404-BC54-4362-A42E-5F7D3372E631}|MyFirstAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +42,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T17:17:23.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyFirstAPI.http",
+              "DocumentMoniker": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\MyFirstAPI.http",
+              "RelativeDocumentMoniker": "MyFirstAPI.http",
+              "ToolTip": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\MyFirstAPI.http",
+              "RelativeToolTip": "MyFirstAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-03T17:17:21.976Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -44,62 +76,57 @@
               "RelativeDocumentMoniker": "MyFirstAPI.csproj",
               "ToolTip": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\MyFirstAPI.csproj",
               "RelativeToolTip": "MyFirstAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-26T18:50:27.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T18:50:27.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TaskModel.cs",
               "DocumentMoniker": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\Models\\TaskModel.cs",
               "RelativeDocumentMoniker": "Models\\TaskModel.cs",
               "ToolTip": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\Models\\TaskModel.cs",
               "RelativeToolTip": "Models\\TaskModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T18:50:46.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T18:50:46.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T18:15:45.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T18:15:45.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IUserServices.cs",
               "DocumentMoniker": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\Services\\IUserServices.cs",
               "RelativeDocumentMoniker": "Services\\IUserServices.cs",
               "ToolTip": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\Services\\IUserServices.cs",
               "RelativeToolTip": "Services\\IUserServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T18:04:47.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T18:04:47.727Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UserServices.cs",
               "DocumentMoniker": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\Services\\UserServices.cs",
               "RelativeDocumentMoniker": "Services\\UserServices.cs",
               "ToolTip": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\Services\\UserServices.cs",
               "RelativeToolTip": "Services\\UserServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T17:34:45.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T17:34:45.75Z"
             },
             {
               "$type": "Document",
@@ -109,7 +136,7 @@
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "D:\\Users\\vitor.baldasso\\Estudos\\MyFirstAPI\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T17:02:20.617Z",
               "EditorCaption": ""

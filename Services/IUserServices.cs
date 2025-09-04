@@ -10,5 +10,7 @@ namespace MyFirstAPI.Services
 
         void removeTaskOfList(int id);
 
+        TaskModel SearchTaskbyID(int id);
+
     }
 }

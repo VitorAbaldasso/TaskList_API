@@ -27,7 +27,7 @@ namespace MyFirstAPI.Services
 
         public void removeTaskOfList(int Id)
         {
-            foreach (Models.TaskModel response in _users)
+            foreach (TaskModel response in _users)
             {
                 if(response.Id == Id)
                 {
@@ -35,5 +35,21 @@ namespace MyFirstAPI.Services
                 }
             }
         }
+
+        public TaskModel SearchTaskbyID(int id)
+        {
+            var responseTask = new Models.TaskModel();
+
+            foreach (TaskModel response in _users)
+            {
+                if (response.Id == id)
+                {
+                    responseTask = response;
+                }
+            }
+
+            return responseTask;
+        }
+
     }
 }

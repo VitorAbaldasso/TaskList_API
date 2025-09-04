@@ -7,7 +7,6 @@
         public int Id { get; set; }
         public string FinishDate { get; set; }
         public string status { get; set; }
-
         public int priority { get; set; }
 
     }

@@ -33,3 +33,4 @@ D:\Users\vitor.baldasso\Estudos\MyFirstAPI\obj\Release\net8.0\refint\MyFirstAPI.
 D:\Users\vitor.baldasso\Estudos\MyFirstAPI\obj\Release\net8.0\MyFirstAPI.pdb
 D:\Users\vitor.baldasso\Estudos\MyFirstAPI\obj\Release\net8.0\MyFirstAPI.genruntimeconfig.cache
 D:\Users\vitor.baldasso\Estudos\MyFirstAPI\obj\Release\net8.0\ref\MyFirstAPI.dll
+D:\Users\vitor.baldasso\Estudos\MyFirstAPI\obj\Release\net8.0\MyFirstAPI.sourcelink.json
